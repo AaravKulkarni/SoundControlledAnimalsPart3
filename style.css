@@ -1,0 +1,17 @@
+body{
+    background-color: olive;
+    font-family: 'Roboto Mono', monospace;
+}
+.heading{
+    size: 100%;
+    background-color: olivedrab;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.heading p{
+    font-weight: bold;
+}
+#allimg{
+    height: 500px;
+}
